@@ -1,0 +1,5 @@
+package day1;
+
+public enum Week {
+	SUNDAY,MONDAY,TUESDAY,WENDESDAY,THURSDAY,FRIDAY,SATURDAY
+}

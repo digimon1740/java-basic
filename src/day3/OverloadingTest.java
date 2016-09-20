@@ -20,5 +20,7 @@ public class OverloadingTest {
 		ot.eat();
 		ot.eat("라면");
 		ot.eat("삼겹살",2);
+		
+		System.out.println();
 	}
 }
